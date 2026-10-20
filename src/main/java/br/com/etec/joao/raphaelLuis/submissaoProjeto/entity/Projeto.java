@@ -1,6 +1,6 @@
-package br.com.etec.joao.raphaelLuis.submissao.projeto.entity;
+package br.com.etec.joao.raphaelLuis.submissaoProjeto.entity;
 
-import br.com.etec.joao.raphaelLuis.submissao.projeto.enums.StatusEnum;
+import br.com.etec.joao.raphaelLuis.submissaoProjeto.enums.StatusEnum;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

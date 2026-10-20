@@ -1,4 +1,4 @@
-package br.com.etec.joao.raphaelLuis.submissao.projeto.enums;
+package br.com.etec.joao.raphaelLuis.submissaoProjeto.enums;
 
 public enum StatusEnum {
     APROVADO,
